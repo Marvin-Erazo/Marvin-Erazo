@@ -11,7 +11,7 @@ Actually I study software engineering in ESPOCH
 <br>
 [![whatsapp](https://user-images.githubusercontent.com/90436675/195721565-64ca5d78-1311-4100-9693-e9f5c26da635.png)](http://wa.me/+593999253452)
 <br>
-[![email](https://user-images.githubusercontent.com/90436675/195721776-9f06c0b5-3c88-4586-909a-83beba0cdb00.png)](marvin-erazo@hotmail.com)
+[![email](https://user-images.githubusercontent.com/90436675/195721776-9f06c0b5-3c88-4586-909a-83beba0cdb00.png)](mailto:marvin-erazo@hotmail.com)
 
 
 
