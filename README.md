@@ -1,8 +1,11 @@
 # 💫 About Me :
-I'm Marvin Erazo software developer specializing in web development
+### I'm Marvin Erazo
+<b>Software developer specializing in web development
 <br>
 Actually I study software engineering in ESPOCH
-
+</b>
+<br>
+<br>
 *I love coffe* 
 
 ## 🌐 Socials Links
